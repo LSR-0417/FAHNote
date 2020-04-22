@@ -1,0 +1,3 @@
+FAH安裝路徑/Data Directory/work(C:\Users\UserName\AppData\Roaming\FAHClient\work)
+裡面會看到00、01等資料夾，那就是FAH的工作隊列
+刪除掉指定的資料夾就會重新下載了
